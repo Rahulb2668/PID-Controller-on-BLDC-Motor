@@ -29,3 +29,6 @@ To control the brushless motors we have to send a PWM signal to each ESC with a 
 that is the range of the ESCs that we've calibrated. We will divide the code in a few parts. But first we have to know a 
 little bit of mathematic. We will use some formulas to calculate the angles. This are called Euler formulas.
 
+
+I did this project with reference from electronoobs tutorial.
+link : https://www.youtube.com/watch?v=AN3yxIBAxTA&t=871s
